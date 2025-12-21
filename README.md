@@ -1,7 +1,6 @@
 # House-Price-Prediction-Project-Regression-
 This repository contains a Data Science project focused on predicting house sale prices based on various property features using Machine Learning regression algorithms.
-Here is the README file for the House Price Prediction project. As requested, it starts with English, does not use emojis, and maintains a professional format.
-
+Here is the README file for the House Price Prediction project. 
 
 ## Team Members
 * Nukri Munjishvili
